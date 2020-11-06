@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import { ConfigDatabase } from "./ConfigDatabase";
 import { RegularDatabase } from "./RegularDatabase";
 import { Database } from "./Database";
