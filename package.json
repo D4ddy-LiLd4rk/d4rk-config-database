@@ -1,0 +1,26 @@
+{
+  "name": "@brobox-entertainment/d4rk-database",
+  "version": "0.0.1",
+  "description": "Simple setup for config database",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "start": "node dist/main.js",
+    "watch": "tsc -p tsconfig.json -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4ddy-LiLd4rk/d4rk-database.git"
+  },
+  "author": "D4ddy-LiLd4rk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D4ddy-LiLd4rk/d4rk-database/issues"
+  },
+  "homepage": "https://github.com/D4ddy-LiLd4rk/d4rk-database#readme"
+}
